@@ -1,2 +1,6 @@
 # anonymous-chat-application
-![Architecture Diagram](https://github.com/suyashagnihotri/share-market-price-prediction/blob/main/diagram.png)
+##  Architecture Diagram
+
+
+
+![System Architecture](https://github.com/suyashagnihotri/anonymous-chat-application/blob/main/diagram%20(1).png?raw=true)
